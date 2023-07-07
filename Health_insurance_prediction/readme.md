@@ -19,3 +19,11 @@ GUI Design and Development: Design and develop the GUI using a suitable framewor
 Model Interpretation: Analyze the coefficients of the linear regression model to determine the impact of each feature on the predicted health insurance costs. Identify the most influential factors affecting insurance costs and provide insights based on the model's findings.
 
 By completing this project, we aim to develop an accurate predictive model for health insurance costs and create a user-friendly GUI predictor. This GUI will allow users to obtain personalized cost estimates based on their individual information, enabling better financial planning and decision-making related to health insurance coverage.
+
+
+
+
+
+
+![1](https://github.com/polpratik68/ML_Projects-/assets/132188237/61f32de3-4484-4711-8f86-ea6e81afa7c5)
+
