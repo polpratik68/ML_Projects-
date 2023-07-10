@@ -1,6 +1,6 @@
 Problem Statement: Predicting Health Insurance Costs and Building a GUI Predictor
 
-The objective of this project is to develop a predictive model using linear regression to estimate health insurance costs for individuals based on various factors. The dataset used for this analysis contains information about individuals, including their age, sex, BMI (Body Mass Index), number of children, smoking habits, and region.
+The objective of this project is to develop a predictive model using regression algorithms to estimate health insurance costs for individuals based on various factors. The dataset used for this analysis contains information about individuals, including their age, sex, BMI (Body Mass Index), number of children, smoking habits, and region.
 
 The goals of this project are as follows:
 
